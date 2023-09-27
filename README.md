@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhrao076&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhrao076" /> </p>
 
-- 🌱 I’m currently learning **Vue 3**
+- 🌱 I’m currently learning **Spring** 🍃 
 
-- 👨‍💻 Some of my projects are available at [https://my-portfolio-alpha-beige-98.vercel.app/](https://my-portfolio-alpha-beige-98.vercel.app/)
+- 👨‍💻 Some of my projects are available at [https://my-portfolio-rishabhrao076.vercel.app/](https://my-portfolio-rishabhrao076.vercel.app)
 
 - 💬 Ask me about **Laravel**
 
